@@ -9,7 +9,7 @@ license: apache-2.0
 tags:
 - text-generation-inference
 - transformers
-- unsloth
+- unsloth+collab
 - llama
 - trl
 ---
